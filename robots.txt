@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thegarage-sitges.com/sitemap.xml
